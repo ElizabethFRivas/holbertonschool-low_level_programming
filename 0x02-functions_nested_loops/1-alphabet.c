@@ -16,4 +16,5 @@ void print_alphabet(void)
 		inicio = inicio + 1;
 
 	}
+	_putchar('\n');
 }
