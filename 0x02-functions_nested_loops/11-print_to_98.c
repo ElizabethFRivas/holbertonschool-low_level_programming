@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * print_last_digit - Write a function that prints the last digit of a number
+ * print_to_98 - Write a function that prints the last digit of a number
  * @n: integer
  * Return: Always void.
  */
